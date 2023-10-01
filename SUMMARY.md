@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About TIL](README.md)
+* [😅 2023.10.01](2023.10.01.md)
 
 ## ✏ Daily-Log
 
